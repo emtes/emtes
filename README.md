@@ -14,9 +14,9 @@
 * Idiomatic Python
 
 ### 📫 How to reach me:
-* __Email__: [edelanuez@pm.me](mailto:edelanuez@pm.me)
-* __LinkedIn__: [@edelanuez](https://www.linkedin.com/in/edelanuez/)
-* __DEV Blog__: [@emtes](https://dev.to/emtes)
+* __Email:__ [edelanuez@pm.me](mailto:edelanuez@pm.me)
+* __LinkedIn:__ [@edelanuez](https://www.linkedin.com/in/edelanuez/)
+* __DEV Blog:__ [@emtes](https://dev.to/emtes)
 
 <!--
 **emtes/emtes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
