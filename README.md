@@ -14,7 +14,7 @@
 * Idiomatic Python
 
 ### 📫 How to reach me:
-* __Email__: [edelanuez@pm.me](edelanuez@pm.me)
+* __Email__: [edelanuez@pm.me](mailto:edelanuez@pm.me)
 * __LinkedIn__: [@edelanuez](https://www.linkedin.com/in/edelanuez/)
 * __DEV Blog__: [@emtes](https://dev.to/emtes)
 
